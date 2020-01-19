@@ -1,0 +1,26 @@
+body {
+    background-color: #ffc9f6;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+ 
+h2 {
+    float: right;
+}
+
+.ree {
+    text-align: center;
+}
+
+#label {
+    width: 100%;
+}
+
+#name {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
